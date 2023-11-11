@@ -1,0 +1,3 @@
+﻿  oj.c
+D:\code\冰箱温度预测\oj.c(6,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  冰箱温度预测.vcxproj -> D:\code\冰箱温度预测\x64\Debug\冰箱温度预测.exe

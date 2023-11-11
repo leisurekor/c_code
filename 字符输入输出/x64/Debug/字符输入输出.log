@@ -1,0 +1,3 @@
+﻿  oj.c
+D:\code\字符输入输出\oj.c(6,8): warning C4129: “|”: 不可识别的字符转义序列
+  字符输入输出.vcxproj -> D:\code\字符输入输出\x64\Debug\字符输入输出.exe

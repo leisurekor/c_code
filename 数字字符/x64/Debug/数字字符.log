@@ -1,0 +1,6 @@
+﻿  oj.c
+D:\code\数字字符\oj.c(6,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\code\数字字符\oj.c(6,10): message : 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+D:\code\数字字符\oj.c(6,10): message : 缺失的可变参数 3 为格式字符串“%c”所需
+D:\code\数字字符\oj.c(6,10): message : 此参数用作缓冲区大小
+  数字字符.vcxproj -> D:\code\数字字符\x64\Debug\数字字符.exe

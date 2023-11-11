@@ -1,0 +1,4 @@
+﻿  oj1.c
+D:\code\计算球体重量\oj1.c(6,14): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\code\计算球体重量\oj1.c(7,14): warning C4305: “初始化”: 从“double”到“const float”截断
+  计算球体重量.vcxproj -> D:\code\计算球体重量\x64\Debug\计算球体重量.exe

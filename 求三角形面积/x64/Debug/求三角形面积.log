@@ -1,0 +1,4 @@
+﻿  oj1.c
+D:\code\求三角形面积\oj1.c(7,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\求三角形面积\oj1.c(8,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  求三角形面积.vcxproj -> D:\code\求三角形面积\x64\Debug\求三角形面积.exe
