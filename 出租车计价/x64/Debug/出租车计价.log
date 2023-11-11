@@ -1,5 +1,0 @@
-﻿  oj.c
-D:\code\出租车计价\oj.c(8,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-D:\code\出租车计价\oj.c(14,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-D:\code\出租车计价\oj.c(16,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-  出租车计价.vcxproj -> D:\code\出租车计价\x64\Debug\出租车计价.exe

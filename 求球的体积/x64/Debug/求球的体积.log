@@ -1,4 +1,0 @@
-﻿  oj1.c
-D:\code\求球的体积\oj1.c(4,14): warning C4305: “初始化”: 从“double”到“const float”截断
-D:\code\求球的体积\oj1.c(7,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  求球的体积.vcxproj -> D:\code\求球的体积\x64\Debug\求球的体积.exe

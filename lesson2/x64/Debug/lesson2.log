@@ -1,3 +1,0 @@
-﻿  oj.c
-D:\code\lesson2\oj.c(1,1): warning C4828: 文件包含在偏移 0x474 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  lesson2.vcxproj -> D:\code\lesson2\x64\Debug\lesson2.exe

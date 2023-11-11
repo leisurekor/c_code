@@ -1,3 +1,0 @@
-﻿  oj1.c
-D:\code\求平均值\oj1.c(6,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  求平均值.vcxproj -> D:\code\求平均值\x64\Debug\求平均值.exe
